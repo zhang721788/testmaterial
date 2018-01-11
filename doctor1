@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "Childs": [
+                {
+                    "DepName": "指南",
+                    "ID": 2,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "病例库",
+                    "ID": 3,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "检验",
+                    "ID": 4,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "医学视频",
+                    "ID": 5,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "手术百科",
+                    "ID": 6,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "值班速查",
+                    "ID": 7,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "经络腧穴",
+                    "ID": 8,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "心电图",
+                    "ID": 9,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "临床路径",
+                    "ID": 10,
+                    "IsFocus": 0
+                }
+            ],
+            "DataID": 1,
+            "DataName": "工具"
+        },
+        {
+            "Childs": [
+                {
+                    "DepName": "求职招聘",
+                    "ID": 11,
+                    "IsFocus": 0
+                }
+            ],
+            "DataID": 2,
+            "DataName": "职业"
+        },
+        {
+            "Childs": [
+                {
+                    "DepName": "交流圈",
+                    "ID": 12,
+                    "IsFocus": 0
+                },
+                {
+                    "DepName": "医学会议",
+                    "ID": 13,
+                    "IsFocus": 0
+                }
+            ],
+            "DataID": 3,
+            "DataName": "其他"
+        }
+    ],
+    "msg": "success",
+    "status": 0
+}
