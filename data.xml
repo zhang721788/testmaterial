@@ -1,10 +1,126 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<data>
-	<food>
-		<collect_num>145</collect_num>
-		<id>145</id>
-		<num>145</num>
-		<pic>http://www.qubaobei.com/ios/cf/uploadfile/132/12/11020.jpg</pic>
-		<title>番茄小炒西葫芦</title>
-	</food>
-</data>
+<?xml version="1.0" encoding="utf-8"?>
+<root> 
+  <data> 
+    <food>
+      <title>番茄小炒西葫芦</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/12/11020.jpg</pic>
+      <num>145</num>
+      <id>11020</id>
+      <food_str>西葫芦 西红柿 盐 生抽 香醋</food_str>
+      <collect_num>145</collect_num>
+    </food>
+    <food>
+      <title>花生芋头红豆糖水</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/32/31281.jpg</pic>
+      <num>144</num>
+      <id>31281</id>
+      <food_str>去皮花生 红豆 芋头 冰糖</food_str>
+      <collect_num>144</collect_num>
+    </food>
+    <food>
+      <title>文蛤蒸蛋</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/11/10417.jpg</pic>
+      <num>139</num>
+      <id>10417</id>
+      <food_str>文蛤 鸡蛋 盐 香油 小葱</food_str>
+      <collect_num>139</collect_num>
+    </food>
+    <food>
+      <title>茶树菇干锅鸡</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/3/2973.jpg</pic>
+      <num>138</num>
+      <id>2973</id>
+      <food_str>嫩鸡 鲜茶树菇 青椒 红椒 姜</food_str>
+      <collect_num>138</collect_num>
+    </food>
+    <food>
+      <title>肉末番茄烧毛豆</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/11/10106.jpg</pic>
+      <num>137</num>
+      <id>10106</id>
+      <food_str>新鲜毛豆 大个成熟番茄 半肥瘦猪肉末 姜末 盐</food_str>
+      <collect_num>137</collect_num>
+    </food>
+    <food>
+      <title>手撕包菜小炒肉</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/12/11771.jpg</pic>
+      <num>135</num>
+      <id>11771</id>
+      <food_str>包菜 五花肉 干辣椒 花椒 大蒜</food_str>
+      <collect_num>135</collect_num>
+    </food>
+    <food>
+      <title>白萝卜牛腩汤</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/7/6910.jpg</pic>
+      <num>126</num>
+      <id>6910</id>
+      <food_str>牛腩 白萝卜 生姜 花椒 盐</food_str>
+      <collect_num>126</collect_num>
+    </food>
+    <food>
+      <title>香脆蛋卷</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/1/901.jpg</pic>
+      <num>126</num>
+      <id>901</id>
+      <food_str>低粉 黄油 糖 鸡蛋 芝麻</food_str>
+      <collect_num>126</collect_num>
+    </food>
+    <food>
+      <title>电饭煲盐焗鸡</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/3/2978.jpg</pic>
+      <num>125</num>
+      <id>2978</id>
+      <food_str>嫩鸡 姜 洋葱 葱花 香菜</food_str>
+      <collect_num>125</collect_num>
+    </food>
+    <food>
+      <title>辣椒炒肉</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/11/10184.jpg</pic>
+      <num>121</num>
+      <id>10184</id>
+      <food_str>五花肉 青椒 蒜 生抽</food_str>
+      <collect_num>121</collect_num>
+    </food>
+    <food>
+      <title>韩式炒年糕</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/3/2744.jpg</pic>
+      <num>120</num>
+      <id>2744</id>
+      <food_str>韩式年糕 韩式辣酱 白菜 肉丝 红萝卜</food_str>
+      <collect_num>120</collect_num>
+    </food>
+    <food>
+      <title>果汁牛奶</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/24/23824.jpg</pic>
+      <num>117</num>
+      <id>23824</id>
+      <food_str>甜橙 牛奶 蜂蜜</food_str>
+      <collect_num>117</collect_num>
+    </food>
+    <food>
+      <title>醋溜绿豆芽</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/11/10372.jpg</pic>
+      <num>115</num>
+      <id>10372</id>
+      <food_str>绿豆芽 小葱 花椒 白醋 糖</food_str>
+      <collect_num>115</collect_num>
+    </food>
+    <food>
+      <title>糯米鸡</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/3/2501.jpg</pic>
+      <num>113</num>
+      <id>2501</id>
+      <food_str>糯米 面粉 肉丁 香菇 青豆</food_str>
+      <collect_num>113</collect_num>
+    </food>
+    <food>
+      <title>洋葱炒牛肉</title>
+      <pic>http://www.qubaobei.com/ios/cf/uploadfile/132/4/3700.jpg</pic>
+      <num>111</num>
+      <id>3700</id>
+      <food_str>牛肉 洋葱 老姜 辣椒酱 老抽</food_str>
+      <collect_num>111</collect_num>
+    </food> 
+  </data>  
+  <ret>1</ret> 
+</root>
